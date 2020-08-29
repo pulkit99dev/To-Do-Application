@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/pulkit99dev/To-Do-Application/issues"
   },
-  "homepage": "https://github.com/pulkit99dev/To-Do-Application#readme"
+  "homepage": "https://github.com/pulkit99dev/To-Do-Application#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.2"
+  }
 }
