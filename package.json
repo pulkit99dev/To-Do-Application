@@ -1,0 +1,19 @@
+{
+  "name": "to-do",
+  "version": "1.0.0",
+  "description": "Simple Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pulkit99dev/To-Do-Application.git"
+  },
+  "author": "Pulkit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pulkit99dev/To-Do-Application/issues"
+  },
+  "homepage": "https://github.com/pulkit99dev/To-Do-Application#readme"
+}
