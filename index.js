@@ -1,5 +1,7 @@
 const express = require('express');
 const port = 9000;
+const db= require('./config/mongoose');
+const Task = require('./model/tasks');
 
 let app = express();
 
